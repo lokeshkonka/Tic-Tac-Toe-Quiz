@@ -113,7 +113,7 @@ export default function App() {
 
       {/* Copyright Footer */}
       <div className="absolute bottom-4 left-0 right-0 text-center text-gray-400 text-sm z-10">
-        © 2025 Tic-Tac-Toe. Techgyanathon 2025, ITSA - Technical Team. All rights reserved. 
+        © 2025 Tic-Tac-Toe. , ITSA - Technical Team. All rights reserved. 
       </div>
     </div>
   );
